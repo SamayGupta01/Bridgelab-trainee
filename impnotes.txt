@@ -1,0 +1,16 @@
+GIT COMMANDS :
+
+"These are the main steps for pushing your local changes to a remote Git repository."
+
+# 1. git add "file name"
+# 2. git commit -m "message"
+# 3. git push -u origin branch-name
+# 4. git pull origin branch-name
+# 5. git clone "repo link" 
+# 6. git checkout branch-name /// git checkout -b branch-name
+# 7. git log 
+# 8. git status 
+# 9. git branch 
+# 10. git rm filename
+# 11. git rm -r foldername
+# 12. git branch -d "branch name" 
